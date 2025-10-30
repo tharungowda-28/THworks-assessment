@@ -239,8 +239,12 @@ This project was developed **independently**, without using any AI tools or code
 **Signed:** Tharun B
 **Date:** 30 October 2025
 
-```
+---
+
 ## Demo Video
 🎬 [Watch the Demo](https://drive.google.com/file/d/1gLC-w9DDNbvShzlUDxy8sR5ZynbSkl9M/view?usp=sharing)
+
+```
+
 
 
